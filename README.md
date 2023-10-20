@@ -1,4 +1,4 @@
-# Practica1_Lenguajes
+# Viajes_en_el_tiempo
 Integrantes:
 •	Alejandro Hinestroza Gómez
 •	Samuel Gutiérrez Jaramillo
